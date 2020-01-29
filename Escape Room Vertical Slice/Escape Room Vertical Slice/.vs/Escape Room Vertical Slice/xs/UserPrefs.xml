@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{06E7D143-36D2-6AE4-08B0-CDC4B50F896C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/Platform/Samples/VrHoops/Scripts/PlayerArea.cs">
+    <Files>
+      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/CharacterCameraConstraint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/CharacterCameraConstraint.cs" Line="22" Column="56" />
+      <File FileName="Assets/Oculus/Platform/Samples/VrHoops/Scripts/PlayerArea.cs" Line="19" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Escape Room Vertical Slice" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="Platform" expanded="True">
+                  <Node name="Samples" expanded="True">
+                    <Node name="VrHoops" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="PlayerArea.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbeaa4df-3283-46e5-a8b5-373d3be93832" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
